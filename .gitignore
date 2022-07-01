@@ -2,6 +2,7 @@
 *.doc
 *.docx
 *.txt
+*.md
 # cmake相关配置文件
 .vscode
 bin
