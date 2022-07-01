@@ -13,6 +13,8 @@ Code文件夹下是代码，没有题目，只能是在做某一道题时为大�
 ## 实验报告
 a,b,c,d四个文件夹是月模拟和模测的实验报告，H1-15是作业的，实验报告记录了一些题的思路，值得一看。
 
+![https://github.com/fgmn/Programming_ex/blob/main/1.png](https://github.com/fgmn/Programming_ex/blob/main/1.png)
+
 **本仓库的代码仅供参考，请谨慎cv，有代码查重（汗~）**
 
 
